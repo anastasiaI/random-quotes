@@ -1,0 +1,34 @@
+.body {
+  font-family: MontSerrat,Tahoma,Arial,sans-serif;
+}
+.jumbotron {
+  background-color: light;
+  height: 100vh;
+}
+.h3 {
+  font-color: #262626;
+}
+#quote-machine {
+  background-color: light;
+  border-color: #262626;
+  border-style: solid;
+  border-radius: 1rem;
+  margin-top: 20px;
+  padding-top: 15px;
+  padding-right:15px;
+  padding-left: 15px;
+}
+#quote {
+  font-size: 18pt;
+  quotes: "«" "»";
+}
+#author {
+  font-size: 14pt;
+  font-style: italic;
+}
+#quote-container {
+  margin-top: 20px;
+}
+#twitter {
+  margin-top: 20px;
+ }
